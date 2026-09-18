@@ -1,7 +1,6 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is my solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). This challenge helped me practice building responsive layouts using semantic HTML and CSS while improving my understanding of Flexbox and responsive design. 
 ## Table of contents
 
 - [Overview](#overview)
@@ -32,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/lekaneniola476-commits/four-card-feature-section-master)
-- Live Site URL: [live site URL]()
+- Live Site URL: [live site URL](https://lekaneniola476-commits.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -104,7 +103,7 @@ What didn't work as well was blindly applying suggested solutions. Some approach
 
 ## Author
 
-- Website - [ENNY]()
+- Website - [ENNY](https://lekaneniola476-commits.github.io/four-card-feature-section-master/)
 - Frontend Mentor - [@lekaneniola476-commits](https://www.frontendmentor.io/profile/lekaneniola476-commits)
 - Twitter - [@rising476](https://x.com/rising476)
 
